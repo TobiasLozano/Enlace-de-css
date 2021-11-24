@@ -5,7 +5,7 @@ En la parte "code" da la opcion para descargarlos comprimidos
 En el archivo ejemploHTML esta el codigo junto css + html
 
 
-En la carpeta Separado el html y el css estan en distintos archivos
+En la carpeta Separado el html y el css estan en distintos archivos y el css esta enlazado al html
 
 
 
