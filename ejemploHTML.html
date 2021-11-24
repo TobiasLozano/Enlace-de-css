@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Etiquetas por defecto -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color</title>
+    <!-- Etiqueta style para dar los estilos en el mismo archivo html (debe ir dentro del head) -->
+    <link rel="stylesheet" href="style/styles.css">
+    <style>
+<!-- El selector "p" selecciona todos los parrafos, se puede usar "p.clase", especificando la clase que tiene la etiqueta que se quiere modificar. Tabien se puede poner solamente ".clase" -->        p.ligero{
+            font-weight: lighter;
+        }
+        p.normal{
+            font-weight: normal;
+        }
+        p.negrita{
+            font-weight: bold;
+        }
+        p.pesado{
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    <!-- Se especifican las clases -->
+    <p class="ligero"> Este es un texto ligero</p>
+    <p class="normal"> Este es un texto normal</p>
+    <p class="negrita"> Este es un texto en negrita</p>
+    <p class="pesado">Este es un texto pesado</p>
+</body>
+</html>
