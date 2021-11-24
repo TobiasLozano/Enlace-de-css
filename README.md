@@ -1,5 +1,5 @@
 # Enlace-de-css
-En la parte "code" da la opcion para descargarlos comprimidos
+En la parte "code" da la opcion para descargarlos comprimidos y ejecutarlos, aunque tambien se  puede vizualizar aqui online
 
 
 En el archivo ejemploHTML esta el codigo junto css + html
