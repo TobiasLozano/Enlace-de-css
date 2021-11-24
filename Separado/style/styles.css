@@ -1,0 +1,13 @@
+<!-- El selector "p" selecciona todos los parrafos, se puede usar "p.clase", especificando la clase que tiene la etiqueta que se quiere modificar. Tabien se puede poner solamente ".clase" -->
+p.ligero{
+  font-weight: lighter;
+}
+p.normal{
+  font-weight: normal; 
+} 
+p.negrita{
+  font-weight: bold;
+} 
+p.pesado{ 
+  font-weight: bolder; 
+}
