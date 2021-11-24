@@ -9,4 +9,4 @@ En la carpeta Separado el html y el css estan en distintos archivos y el css est
 
 
 
-*Las clases solo son indicadores y no cambiaran nada hasta que se indique desde css los estilos: * "    .+clase{estilos}     "
+*Las clases solo son indicadores y no cambiaran nada hasta que se indique desde css los estilos: * "    .+clase{estilos}   (punto+clase){}  "
